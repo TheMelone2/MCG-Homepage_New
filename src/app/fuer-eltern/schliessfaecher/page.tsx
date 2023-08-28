@@ -29,10 +29,7 @@ export default function Page() {
                 <p> Die Schließfächer finden Sie im Haupteingang Flur (Treppenhaus C), im Treppenhaus zwischen C und D, sowie im Keller (Raum UG.60).</p>
                 <br></br>
             </div>
-            <div className="video-tutorial">
-                <h2>Video-Tutorial</h2>
-                <video src=""></video>
-            </div>
+
         </section>
     </div>
     );
