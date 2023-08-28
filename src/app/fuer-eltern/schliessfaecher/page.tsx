@@ -26,7 +26,7 @@ export default function Page() {
                 <br></br>
                 <h2>Wie kann ich mein Schließfach nutzen?</h2>
                 <p> Sie können Ihr Schließfach mit einem Zahlencode öffnen. Der Zahlencode wird Ihnen per E-Mail zugeschickt.</p>
-                <p> Die Schließfächer finden Sie im Haupteingang Flur (Treppenhaus C), im Treppenhaus zwischen C und D, sowie im Keller (Raum UG.60)</p>
+                <p> Die Schließfächer finden Sie im Haupteingang Flur (Treppenhaus C), im Treppenhaus zwischen C und D, sowie im Keller (Raum UG.60).</p>
                 <br></br>
             </div>
             <div className="video-tutorial">
