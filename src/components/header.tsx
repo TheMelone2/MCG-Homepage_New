@@ -29,7 +29,9 @@ export default function Header() {
         <ul className="flex w-2/3 gap-8 p-0">
           <NavLink title="Start" href="/" />
           <NavLink title="Unsere Schule" href="/unsere-schule">
+            <NavLink title="Vorstellung" href="/unsere-schule/vorstellung" />
             <NavLink title="Schulleben" href="/unsere-schule/schulleben" />
+            <NavLink title="Digitale Schule" href="/unsere-schule/digitale-schule" />
           </NavLink>
           <NavLink title="Für Schüler" href="/fuer-schueler">
             <NavLink title="Stundenplan" href="/fuer-schueler/stundenplan" />
