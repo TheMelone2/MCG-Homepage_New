@@ -17,7 +17,7 @@ export default function Page() {
                 <h2>Wie miete ich ein Schließfach?</h2>
                 <p id="tutorial-step"> 1. Gehen Sie auf die Website von <a href="https://www.astradirect.de/fach-mieten/schule-waehlen">Astradirect</a></p>
                 <p id="tutorial-step"> 2. Geben Sie bei Ort der Schule "Dallgow-Döberitz" ein und Wählen sie bei dem Namen der Schule das Marie-Curie-Gymnasium</p>
-                <p id="tutorial-step"> 3. Wählen Sie den Standort des Schließfaches (Am Marie Curie Gymnasium gibt es nur einen Standort für Schließfächer!)</p>
+                <p id="tutorial-step"> 3. Wählen Sie den Standort des Schließfaches (Am Marie Curie Gymnasium können Sie zwischen drei Standorten wählen!)</p>
                 <p id="tutorial-step"> 4. Wählen Sie die gewünschte Schließfachgröße aus</p>
                 <p id="tutorial-step"> 5. Wählen Sie die gewünschte Mietdauer aus</p>
                 <p id="tutorial-step"> 6. Wählen Sie die gewünschte Zahlungsart aus</p>
