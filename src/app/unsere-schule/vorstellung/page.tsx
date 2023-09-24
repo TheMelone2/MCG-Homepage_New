@@ -3,6 +3,11 @@ export default function Page() {
       <div>
         <title>Vorstellung - MCG Dallgow</title>
         <section>
+          <div className="z-1 relative -left-10 -top-8 -mr-20 flex h-64 items-center justify-center rounded-lg bg-[url('http://marie-curie-gymnasium-dallgow.de/wp-content/uploads/2016/07/PIC_7181_2_3_export.jpg')] bg-cover bg-center">
+            <h2 className="text-center text-3xl font-bold text-white">
+              Vorstellung des Marie-Curie-Gymnasiums Dallgow-Döberitz
+            </h2>
+          </div>
           <h2>Wer sind wir</h2>
           <p>
             Die gesamte Schulgemeinschaft des Marie-Curie-Gymnasiums in Dallgow-
@@ -62,7 +67,9 @@ export default function Page() {
             weitergehende Detailinformationen erwarten Sie auf den nächsten
             Seiten unserer Homepage.
           </p>
-          <p><i>Die Schulgemeinschaft des Marie-Curie-Gymnasiums</i></p>
+          <p>
+            <i>Die Schulgemeinschaft des Marie-Curie-Gymnasiums</i>
+          </p>
         </section>
       </div>
     );}
